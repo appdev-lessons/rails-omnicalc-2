@@ -10,7 +10,7 @@ LTI{Load Rails Omnicalc-2 assignment}(https://grades.firstdraft.com/launch)[S9ym
 
 Then, fork the repository and create your Codespace. Start your live app preview with `bin/dev` once the Codespace is setup.
 
-You should keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120); it's a good reference for debugging Rails.
+You should keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120-rcav-flowchart); it's a good reference for debugging Rails.
 
 When you are ready to get automated feedback run `rake grade`. Before you run `rake grade` you should try and manually match the target; don't rely on `rake grade` to debug; **the better errors page is going to be much more helpful for debugging your starter code.**
 
